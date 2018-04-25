@@ -10,3 +10,5 @@ tags:
 languages:
   - ruby
 resources: 2
+
+parent_template: git@github.com:learn-co-curriculum/apples-and-holidays.git

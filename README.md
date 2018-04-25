@@ -83,4 +83,4 @@ holidays_with_bbqs(holiday_supplies)
 - [honeybadger - Advanced Ruby Hash Techniques](http://blog.honeybadger.io/advanced-ruby-hash-techniques/)
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/apples-and-holidays' title='Iterating Over Hashes'>Iterating Over Hashes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Iterating Over Hashes</p>
